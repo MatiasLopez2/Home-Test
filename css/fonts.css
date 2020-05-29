@@ -1,0 +1,32 @@
+/*Medium*/
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/GothamRounded-Medium.eot');
+    src: url('../fonts/GothamRounded-Medium.ttf') format('woff'), url('../fonts/GothamRounded-Medium.ttf') format('truetype'), url('../fonts/GothamRounded-Medium.svg') format('svg');
+    font-style: normal;
+    font-weight: 500;
+}
+/*Light*/
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/GothamRounded-Light.eot');
+    src: url('../fonts/GothamRounded-Light.ttf') format('woff'), url('../fonts/GothamRounded-Light.ttf') format('truetype'), url('../fonts/GothamRounded-Light.svg') format('svg');
+    font-style: normal;
+    font-weight: 300;
+}
+/*Bold*/
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/GothamRounded-Bold.eot');
+    src: url('../fonts/GothamRounded-Bold.ttf') format('woff'), url('../fonts/GothamRounded-Bold.ttf') format('truetype'), url('../fonts/GothamRounded-Bold.svg') format('svg');
+    font-style: normal;
+    font-weight: 700;
+}
+/*Book*/
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/GothamRounded-Book.eot');
+    src: url('../fonts/GothamRounded-Book.ttf') format('woff'), url('../fonts/GothamRounded-Book.ttf') format('truetype'), url('../fonts/GothamRounded-Book.svg') format('svg');
+    font-style: normal;
+    font-weight: 100;
+}
